@@ -1,4 +1,3 @@
-# US987654321US11255
 from colorama import init, Fore, Back, Style
 from twilio.rest import Client
 import smtplib
