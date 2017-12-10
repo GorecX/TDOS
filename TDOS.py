@@ -1,6 +1,6 @@
 import pip
 pip.main(['install', 'colorama'])
-pip.main(['install', 'twilio.rest'])
+pip.main(['install', 'twilio'])
 
 from colorama import init, Fore, Back, Style
 from twilio.rest import Client
